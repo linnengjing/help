@@ -1,7 +1,5 @@
 # 系统参数
 
-## 系统参数
-
 ### 系统基本参数
 
 [针零位](bang-zhu-shuo-ming.md#zhen-ling-wei)  
